@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sayan Banerjee](https://sayan112207.github.io/)</h1>
+<h1 align="center">Hi 👋, I'm Sayan Banerjee</h1>
 <h3 align="center">An AI Enthusiast</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sayan112207&label=Profile%20views&color=0e75b6&style=flat&base=236" alt="Profile views of Sayan" /> </p>
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sayan112207@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11xckEUHIVuUnULqLswJpt56UfZWXggke/view?usp=sharing)
+- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/11xckEUHIVuUnULqLswJpt56UfZWXggke/view?usp=sharing) or [Personal Portfolio](https://sayan112207.github.io/)
 
 - ⚡ Fun fact **I do love Coding**
 
