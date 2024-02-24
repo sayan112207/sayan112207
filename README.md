@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sayan Banerjee</h1>
 <h3 align="center">An AI Enthusiast</h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sayan112207&label=Profile%20views&color=0e75b6&style=flat&base=236" alt="Profile views of Sayan" /> </p>
+
 - 🔭 I’m currently working on **Deep Learning and Machine Unlearning**
 
 - 🌱 I’m currently pursuing **B.Tech in Computer Science and Engineering**
