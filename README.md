@@ -26,6 +26,7 @@
 <a href="https://www.hackerrank.com/sayan112207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sayan112207" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sayan112207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan112207" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sayan112207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sayan112207" height="30" width="40" /></a>
+<a href="https://medium.com/@sayan112207" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-icons.com%2Ficon%2Fmedium-logo%2F189223&psig=AOvVaw1HGqQPyOx5p_g8JX5ScAca&ust=1715216188198000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPDbj6_s_IUDFQAAAAAdAAAAABAE)" alt="sayan112207" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
