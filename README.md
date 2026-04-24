@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sayan112207@gmail.com**
 
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/11xckEUHIVuUnULqLswJpt56UfZWXggke/view?usp=sharing) or [Personal Portfolio](https://sayan112207.github.io/)
+- 📄 Know about my experiences from my [Resume](https://sayan112207.github.io/resume/) or [Personal Portfolio](https://sayan112207.github.io/)
 
 - ⚡ Fun fact **I do love Coding**
 
