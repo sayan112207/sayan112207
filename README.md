@@ -1,5 +1,5 @@
 <p><h1 align="center">Hi <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>, I'm Sayan Banerjee</h1></p>
-<h3 align="center">An AI Enthusiast</h3>
+<h3 align="center">Product @ WorkIndia | Growth • AI • Experimentation • SQL • Building products with data</h3>
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/></p>
 
